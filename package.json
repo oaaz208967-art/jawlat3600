@@ -1,0 +1,7 @@
+{
+  "name": "jawlat360",
+  "version": "1.0.0",
+  "private": true,
+  "description": "جولات 360 — موقع ثابت + دوال Vercel صغيرة (SEO) + Supabase للحسابات وقاعدة البيانات",
+  "engines": { "node": "24.x" }
+}
